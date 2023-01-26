@@ -1,0 +1,293 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a{
+    margin-left: 15px;
+    }
+    .logo {
+    width: 75%;
+    }
+    /*banner start*/
+    .banner-img {
+     padding: 0 40px;
+    }
+    .banner-text {
+     text-align: -webkit-center;
+     margin-top: 45px;
+    }
+    .banner-text h1 {
+    line-height: 40px;
+    }
+    .banner-text h1 {
+    font-size: 25px;
+    }
+    .banner-text-1 p {
+    margin: 10px 0 25px 0;
+    line-height: 25px;
+    }
+
+    /*Topic*/
+    .images-bac {
+    margin: 0 auto;
+    width: 46px;
+    height: 65px;
+    }
+    .topic-1 h5 {
+    font-size: 19px;
+    }
+    .topic-1 p {
+    font-size: 12px;
+    }
+    .topic-1 {
+    width: 210px;
+    height: 210px;
+    padding: 32.5px 0;
+    margin: 15px auto;
+    }
+
+    /*online courses start*/
+    .m-img {
+    width: 272px;
+    height: 175px;
+    }
+    .modern {
+    margin: 15px auto;
+    width: 310px;
+    height: 423px;
+    }
+    .Designation p {
+    font-size: 14px;
+    line-height: 15px;
+    }
+    .Designation h2 {
+    margin: 45px 0px 0px;
+    font-size: 19px;
+    }
+    .c-btn {
+    margin: 15px 0 43px 20px;
+    }
+    .cal-st {
+    margin-left: 1px;
+    font-size: 14px;
+    }
+    .people {
+    margin-left: 33px;
+    }
+    .online-courses h1 {
+    font-size: 30px;
+    }
+    .t-s h1 {
+    font-size: 30px;
+    }
+
+
+    /*footer start*/
+    .footer-text p{
+        text-align: center;
+    }
+    .ff-11 {
+    text-align: center;
+    margin-top: 50px;
+    }
+
+
+  
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a{
+    margin-left: 15px;
+    }
+    .logo {
+    width: 80%;
+    }
+    /*banner start*/
+    .banner-img {
+     padding: 0 60px;
+    }
+    .banner-text {
+     text-align: -webkit-center;
+     margin-top: 45px;
+    }
+    .banner-text h1 {
+    line-height: 46px;
+    }
+    .banner-text h1 {
+    font-size: 35px;
+    }
+
+    /*Topic*/
+    .images-bac {
+    width: 50px;
+    height: 69px;
+    }
+    .topic-1 h5 {
+    font-size: 20px;
+    }
+    .topic-1 p {
+    font-size: 13px;
+    }
+    .topic-1 {
+    width: 230px;
+    height: 230px;
+    padding: 41.5px 0;
+    margin: 20px auto;
+    }
+
+    /*online courses start*/
+    .m-img {
+    width: 290px;
+    height: 193px;
+    }
+    .modern {
+    margin: 15px auto;
+    width: 325px;
+    height: 438px;
+    }
+    .Designation p {
+    font-size: 14px;
+    line-height: 18px;
+    }
+    .Designation h2 {
+    margin: 40px 0px 0px;
+    font-size: 20px;
+    }
+    .c-btn {
+    margin: 15px 0 40px 20px;
+    }
+    .cal-st {
+    margin-left: 1px;
+    font-size: 14px;
+    }
+
+    /*footer start*/
+    .footer-text p{
+        text-align: center;
+    }
+    .ff-11 {
+    text-align: center;
+    margin-top: 65px;
+    }
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a{
+    margin-left: 15px;
+    }
+    /*banner start*/
+    .banner-img {
+     padding: 0 100px;
+    }
+    .banner-text {
+     text-align: -webkit-center;
+     margin-top: 45px;
+    }
+     .banner-text h1 {
+    line-height: 52px;
+    }
+    .banner-text h1 {
+    font-size: 40px;
+    }
+
+    /*Topic*/
+    .topic-1 {
+    width: 240px;
+    height: 240px;
+    padding: 41.5px 0;;
+    margin: 25px auto;
+    }
+    .images-bac {
+    width: 60px;
+    height: 79px;
+    }
+    .topic-1 h5 {
+    font-size: 20px;
+    }
+    .topic-1 p {
+    font-size: 13px;
+    }
+
+    /*online courses start*/
+    .modern {
+    margin: 17px auto;
+    }
+
+    /*footer start*/
+    .footer-text p{
+        text-align: center;
+    }
+    .ff-11 {
+    text-align: center;
+    margin-top: 65px;
+    }
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header start*/
+	.menu ul li a{
+    margin-left: 30px;
+    }
+    /*Topic*/
+    .topic-1 {
+    width: 210px;
+    height: 235px;
+    padding: 35.5px 0;
+    
+    }
+    .topic-1 h5 {
+    font-size: 20px;
+    }
+
+    .topic-1 p {
+    font-size: 13px;
+    }
+
+    /*online courses start*/
+    .m-img {
+    width: 270px;
+    height: 173px;
+    }
+    .modern {
+    width: 300px;
+    height: 413px;
+    }
+    .Designation h2 {
+    margin: 49px 0px 0px;
+    font-size: 21px;
+    line-height: 32px;
+    }
+    .Designation p {
+    font-size: 15px;
+    }
+    .c-btn {
+    margin: 15px 0 28px 20px;
+    }
+    .cal-st {
+    margin-left: 4px;
+    font-size: 14px;
+    }
+    .people {
+    margin-left: 15px;
+    }
+
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	
+}
